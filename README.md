@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sem0ark
 - 👀 I’m interested in learning, maths, books, knitting and, of course, programming.
-- 🌱 I’m currently learning back-end web development.
+- 🌱 I’m currently learning web and cloud development.
 - 📫 How to reach me:
   - email: semenov0am@gmail.com
